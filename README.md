@@ -4,4 +4,3 @@ poetry:
 ```bash
 poetry install
 ```
-# music-recommender
